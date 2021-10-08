@@ -1,6 +1,6 @@
 # task_gaap_solutions
 
-A Quicj application with a fingle view.
+A Quick application with a single view.
 ## Getting Started
 
 Flutter run
